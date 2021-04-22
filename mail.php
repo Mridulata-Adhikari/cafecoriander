@@ -10,5 +10,5 @@ $msg = "First line of text\nSecond line of text";
 $msg = wordwrap($msg,70);
 
 // send email
-mail("mridulataadhikari@gmail.com","Test",$msg);
+mail("exampleemail@gmail.com","Test",$msg);
 ?>
